@@ -1,2 +1,2 @@
-# Rojan116
-Write_a_data_science_blog_post
+#Write_a_data_science_blog_post
+Udacity Data Scientist Nanodegree Project
