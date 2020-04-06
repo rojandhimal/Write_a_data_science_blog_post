@@ -3,7 +3,7 @@ This is the udacity Data scientist nanodigree program's project1.
 
 # Table of Contents
 * [Installation](#installation)
-* [Project Motivation]()
+* [Project Motivation](#project-motivation)
 * [File Description]()
 * [Results]()
 * [Licensing, Authors, and Acknowledgements]()
