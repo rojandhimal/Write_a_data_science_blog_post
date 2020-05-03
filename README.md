@@ -21,3 +21,11 @@ In this project, I choose [Stackoverflow Survay , 2017](https://www.kaggle.com/s
 
 # File Description
 The data are taken from [Stackoverflow's 2019 Annual Developer Survey](https://insights.stackoverflow.com/survey)
+
+# Result 
+we took a look at what were the most popular programming languages, popular web framework, developers type, and women’s particiation, according to Stackoverflow’s 2019 Annual Developer Survey data.
+**1** we see that Javascript is the most popular programming language in 2019
+**2** JQuery is the most popular web framework followed by react.js and angular.js
+**3** A full-stack developer is the most popular occupation in 2019
+**4** 7.1 % of women are found in StackOverflow’s 2019 annual developer survey data
+To see more about this analysis, see the link to my [Blog](https://medium.com/@rojandhimal1/stack-overflows-data-analysis-9c70066b1690) available [here](https://medium.com/@rojandhimal1/stack-overflows-data-analysis-9c70066b1690).
