@@ -14,6 +14,10 @@ There should be no necessary libraries required to run the code here beyond the 
 # Project Motivation
 In this project, I choose [Stackoverflow Survay , 2017](https://www.kaggle.com/stackoverflow/so-survey-2017) data to analayse and understand following questions.
 
-**1** What are the most used programming languages in Nepal?
-**2** Which occupations were most popular in each year in Nepal? 
-**3** What is the average salary of the participants ?
+**1** What are the most used programming languages in 2019?
+**2** What are the most popular web Framework in 2019? 
+**3** What are the Popular Developer types in 2019? 
+**4** Women's Participation in programming in 2019?
+
+# File Description
+Stackoverflow's 2019 Annual Developer Survey
